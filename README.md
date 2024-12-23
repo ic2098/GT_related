@@ -7,3 +7,7 @@ https://github.com/ic2098/GT_related/blob/cb7ab64f5f9ae6a49fa13454f966299296fc2f
 ![image](https://github.com/user-attachments/assets/99fce479-89e8-44c2-8b81-7e8db6588b29)
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/190251077/Sysmonpsv+Sysmon+for+Versal :P
 https://github.com/Xilinx/embeddedsw/tree/master/XilinxProcessorIPLib/drivers/sysmonpsv
+
+AVED DDRC implementation in PL.
+https://github.com/Xilinx/AVED/blob/amd_v80_gen5x8_24.1_20241002/hw/amd_v80_gen5x8_24.1/src/constraints/impl.pins.xdc
+
